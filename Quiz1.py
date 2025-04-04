@@ -2,6 +2,8 @@
 # Auther: Yang Yue
 # Student NUIST ID: 202283890018
 # Student SETU ID: W20109667
+# Date: 4/4/2025
+
 
 #Define a function named quiz to execute the Q&A game.
 def quiz():
